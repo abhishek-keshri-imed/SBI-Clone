@@ -1,0 +1,5 @@
+.nav li:hover a {
+    border: none;
+    background-color:#2b9dcc ;
+    border-radius: 0px;
+}
